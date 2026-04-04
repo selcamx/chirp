@@ -1,0 +1,56 @@
+name: Bug Report
+description: Report a bug in Chirp
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug! Please fill out the details below.
+  - type: input
+    id: version
+    attributes:
+      label: Chirp version
+      placeholder: "e.g. 1.3.0"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "e.g. macOS 15.3 Sequoia"
+    validations:
+      required: true
+  - type: input
+    id: chip
+    attributes:
+      label: Mac chip
+      placeholder: "e.g. M4 Air, M1 Pro"
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Which mode?
+      options:
+        - Solo Mode
+        - Meeting Mode
+        - Both
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      placeholder: Describe what you expected vs what actually happened.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open Chirp
+        2. ...
+    validations:
+      required: false
