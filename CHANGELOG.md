@@ -2,6 +2,25 @@
 
 All notable changes to Chirp are documented here.
 
+## v1.3.1 — April 2026
+
+### New
+- Auto-pause media — playing music or videos pause when recording starts, resume when done
+- System Audio Recording Only — no longer requires full Screen Recording permission
+
+### Improved
+- Notch messages auto-size to fit text — no more clipped messages
+- Concurrent model downloads — solo and meeting models download independently
+- Cleaner download progress UI with inline layout
+- Trial users now have full access to meeting mode
+
+### Fixed
+- Alignment model failed verification after download (zip extraction bug)
+- Download progress UI glitched when downloading multiple model groups
+
+### Removed
+- Redundant macOS notifications for model errors and failed transcriptions
+
 ## v1.3.0 — April 2026
 
 ### New
