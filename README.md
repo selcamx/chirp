@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/platform-macOS-000?logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Apple_Silicon-optimized-4FD1C5" alt="Apple Silicon" />
-  <img src="https://img.shields.io/badge/version-1.3.0-4FD1C5" alt="Version 1.3.0" />
+  <img src="https://img.shields.io/badge/version-1.3.1-4FD1C5" alt="Version 1.3.0" />
 </p>
 
 ---
