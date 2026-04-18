@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/selcamx/chirp/main/.github/bird.svg" width="96" alt="Chirp app icon" />
+  <a href="https://chirpvoice.com"><img src="https://raw.githubusercontent.com/selcamx/chirp/main/.github/bird.svg" width="96" alt="Chirp app icon" /></a>
 </p>
 
 <h1 align="center">Chirp</h1>
