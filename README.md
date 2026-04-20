@@ -1,8 +1,11 @@
 <p align="center">
-  <a href="https://chirpvoice.com"><img src="https://raw.githubusercontent.com/selcamx/chirp/main/.github/bird.svg" width="96" alt="Chirp app icon" /></a>
+  <a href="https://chirpvoice.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selcamx/chirp/main/.github/wordmark-dark.svg">
+      <img src="https://raw.githubusercontent.com/selcamx/chirp/main/.github/wordmark-light.svg" width="200" alt="Chirp" />
+    </picture>
+  </a>
 </p>
-
-<h1 align="center">Chirp</h1>
 
 <p align="center">
   <strong>You'll never want to type again.</strong>
