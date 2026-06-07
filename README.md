@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>You'll never want to type again.</strong>
+  <strong>Type as fast as you can speak.</strong>
 </p>
 
 <p align="center">
@@ -21,12 +21,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/platform-macOS-000?logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Apple_Silicon-optimized-4FD1C5" alt="Apple Silicon" />
-  <img src="https://img.shields.io/badge/version-1.3.2-4FD1C5" alt="Version 1.3.2" />
+  <img src="https://img.shields.io/github/v/release/selcamx/chirp?color=4FD1C5&label=version" alt="Latest version" />
 </p>
 
 ---
 
-Chirp is a voice dictation and meeting transcription app for macOS. It lives in your MacBook's notch and gets out of your way until you need it.
+Chirp is a voice dictation and meeting transcription app for macOS. It lives in your MacBook's notch and gets out of your way until you need it. Everything runs on-device, and it's a one-time purchase — no subscription, ever.
+
+<!-- DEMO GIF — drop a short screen capture at .github/demo.gif and uncomment this block:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/selcamx/chirp/main/.github/demo.gif" width="720" alt="Chirp in action" />
+</p>
+-->
 
 ## Two modes, both world-class
 
@@ -44,6 +50,7 @@ Record meetings with automatic speaker identification. Chirp learns who's who, b
 - **Full history** — searchable, with audio playback
 - **Word-level timestamps** — precise scrubbing through long recordings
 - **Notarized + auto-updating** — built for Mac, distributed properly
+- **One-time purchase** — every feature and all future updates, no subscription
 
 ## System requirements
 
