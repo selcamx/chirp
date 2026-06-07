@@ -28,9 +28,10 @@
 
 Chirp is a voice dictation and meeting transcription app for macOS. It lives in your MacBook's notch and gets out of your way until you need it. Everything runs on-device, and it's a one-time purchase — no subscription, ever.
 
-<!-- DEMO GIF — drop a short screen capture at .github/demo.gif and uncomment this block:
+<!-- HERO DEMO — record a ~10s clip (notch lights up -> text appears live at the cursor),
+     save it as .github/demo.gif, then delete this comment wrapper to go live:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/selcamx/chirp/main/.github/demo.gif" width="720" alt="Chirp in action" />
+  <img src="https://raw.githubusercontent.com/selcamx/chirp/main/.github/demo.gif" width="760" alt="Chirp — text appears at your cursor as you speak" />
 </p>
 -->
 
@@ -41,6 +42,24 @@ Tap your hotkey, speak, release. Text appears at your cursor before you finish y
 
 ### Meeting Mode — every speaker, labeled
 Record meetings with automatic speaker identification. Chirp learns who's who, builds voice profiles that persist across meetings, and labels every segment. Export with speaker names to Markdown or SRT.
+
+<!-- SCREENSHOTS — save meeting.png + speakers.png in .github/ (2x/retina, window trimmed),
+     then delete this comment wrapper to go live:
+## A closer look
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/selcamx/chirp/main/.github/meeting.png" alt="Meeting Mode — speaker-labeled transcript" /><br/>
+      <sub><b>Meeting Mode</b> — every speaker, labeled</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/selcamx/chirp/main/.github/speakers.png" alt="Speaker library" /><br/>
+      <sub><b>Speaker library</b> — voices remembered across meetings</sub>
+    </td>
+  </tr>
+</table>
+-->
 
 ## What's included
 
