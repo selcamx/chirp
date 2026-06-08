@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/platform-macOS-000?logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Apple_Silicon-optimized-4FD1C5" alt="Apple Silicon" />
   <img src="https://img.shields.io/github/v/release/selcamx/chirp?color=4FD1C5&label=version" alt="Latest version" />
+  <img src="https://img.shields.io/github/downloads/selcamx/chirp/total?color=4FD1C5&label=downloads" alt="Total downloads" />
 </p>
 
 ---
