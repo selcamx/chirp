@@ -211,7 +211,7 @@ All notable changes to Chirp are documented here.
 
 ### New
 - 100% local transcription — your voice never leaves your Mac
-- Up to 190x realtime speed powered by Apple Neural Engine
+- Up to 120x realtime speed powered by Apple Neural Engine
 - Solo Mode — tap hotkey to dictate, text appears at your cursor
 - Meeting Mode — on-device speaker identification
 - Lives in your MacBook notch — always one tap away
