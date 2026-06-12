@@ -39,7 +39,7 @@ Chirp is a voice dictation and meeting transcription app for macOS. It lives in 
 ## Two modes, both world-class
 
 ### Solo Mode — the fastest dictation on Mac
-Tap your hotkey, speak, release. Text appears at your cursor before you finish your thought. Up to 190× faster than real-time. Works in every Mac app — no integrations, no setup.
+Tap your hotkey, speak, release. Text appears at your cursor before you finish your thought. Up to 120× faster than real-time. Works in every Mac app — no integrations, no setup.
 
 ### Meeting Mode — every speaker, labeled
 Record meetings with automatic speaker identification. Chirp learns who's who, builds voice profiles that persist across meetings, and labels every segment. Export with speaker names to Markdown or SRT.
