@@ -12,6 +12,12 @@
 </p>
 
 <p align="center">
+  <a href="https://chirpvoice.com/#download">
+    <img src="https://img.shields.io/badge/Download_for_macOS-0B1F1D?style=for-the-badge&logo=apple&logoColor=white" alt="Download Chirp for macOS" height="34" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://chirpvoice.com">Website</a> &middot;
   <a href="https://chirpvoice.com/#download">Download</a> &middot;
   <a href="https://github.com/selcamx/chirp/releases">Releases</a> &middot;
@@ -38,23 +44,13 @@
 
 Chirp is a native macOS app for voice dictation and meeting transcription. It lives in your MacBook's notch and stays out of the way until you need it. Speech is transcribed on-device — your audio and text never leave your Mac — and it's a one-time purchase, with no subscription and no account.
 
-## Two modes
-
-### Solo — dictation
-Hold your hotkey, speak, release. Text appears at your cursor as you talk, in any Mac app, with no per-app setup. English, transcribed up to 120× faster than real-time.
-
-### Meeting — transcription with speakers
-Records your microphone and the meeting's system audio together, then labels who said what. Chirp builds voice profiles that persist across meetings, so the same speaker is recognized next time. Export speaker-labeled transcripts to Markdown or SRT.
-
-<!-- SCREENSHOTS — save meeting.png + speakers.png in .github/ (retina, window
-     trimmed), then uncomment:
 ## A closer look
 
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/selcamx/chirp/main/.github/meeting.png" alt="Meeting Mode — speaker-labeled transcript" /><br/>
-      <sub><b>Meeting Mode</b> — every speaker, labeled</sub>
+      <img src="https://raw.githubusercontent.com/selcamx/chirp/main/.github/history.png" alt="History — searchable transcripts with playback" /><br/>
+      <sub><b>History</b> — every transcript, searchable, with audio playback</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/selcamx/chirp/main/.github/speakers.png" alt="Speaker library" /><br/>
@@ -62,7 +58,14 @@ Records your microphone and the meeting's system audio together, then labels who
     </td>
   </tr>
 </table>
--->
+
+## Two modes
+
+### Solo — dictation
+Hold your hotkey, speak, release. Text appears at your cursor as you talk, in any Mac app, with no per-app setup. English, transcribed up to 120× faster than real-time.
+
+### Meeting — transcription with speakers
+Records your microphone and the meeting's system audio together, then labels who said what. Chirp builds voice profiles that persist across meetings, so the same speaker is recognized next time. Export speaker-labeled transcripts to Markdown or SRT.
 
 ## What's included
 
