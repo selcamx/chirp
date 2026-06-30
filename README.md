@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>Type as fast as you can speak.</strong>
+  On-device voice dictation and meeting transcription for macOS.
 </p>
 
 <p align="center">
@@ -27,25 +27,27 @@
 
 ---
 
-Chirp is a voice dictation and meeting transcription app for macOS. It lives in your MacBook's notch and gets out of your way until you need it. Everything runs on-device, and it's a one-time purchase — no subscription, ever.
-
-<!-- HERO DEMO — record a ~10s clip (notch lights up -> text appears live at the cursor),
-     save it as .github/demo.gif, then delete this comment wrapper to go live:
+<!-- HERO DEMO — the centerpiece. Record a ~10s clip of the notch lighting up and
+     text appearing live at the cursor; frame just the notch + the target app (not
+     the full screen) so it's legible. Save as .github/demo.gif (~2:1, loops, keep
+     it under ~8 MB), then uncomment:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/selcamx/chirp/main/.github/demo.gif" width="760" alt="Chirp — text appears at your cursor as you speak" />
+  <img src="https://raw.githubusercontent.com/selcamx/chirp/main/.github/demo.gif" width="760" alt="Text appears at your cursor as you speak" />
 </p>
 -->
 
-## Two modes, both world-class
+Chirp is a native macOS app for voice dictation and meeting transcription. It lives in your MacBook's notch and stays out of the way until you need it. Speech is transcribed on-device — your audio and text never leave your Mac — and it's a one-time purchase, with no subscription and no account.
 
-### Solo Mode — the fastest dictation on Mac
-Tap your hotkey, speak, release. Text appears at your cursor before you finish your thought. Up to 120× faster than real-time. Works in every Mac app — no integrations, no setup.
+## Two modes
 
-### Meeting Mode — every speaker, labeled
-Record meetings with automatic speaker identification. Chirp learns who's who, builds voice profiles that persist across meetings, and labels every segment. Export with speaker names to Markdown or SRT.
+### Solo — dictation
+Hold your hotkey, speak, release. Text appears at your cursor as you talk, in any Mac app, with no per-app setup. English, transcribed up to 120× faster than real-time.
 
-<!-- SCREENSHOTS — save meeting.png + speakers.png in .github/ (2x/retina, window trimmed),
-     then delete this comment wrapper to go live:
+### Meeting — transcription with speakers
+Records your microphone and the meeting's system audio together, then labels who said what. Chirp builds voice profiles that persist across meetings, so the same speaker is recognized next time. Export speaker-labeled transcripts to Markdown or SRT.
+
+<!-- SCREENSHOTS — save meeting.png + speakers.png in .github/ (retina, window
+     trimmed), then uncomment:
 ## A closer look
 
 <table>
@@ -64,26 +66,27 @@ Record meetings with automatic speaker identification. Chirp learns who's who, b
 
 ## What's included
 
-- **Lives in the Notch** — always one tap away, never in the way
-- **100% on-device** — your audio and text never leave your Mac
-- **Speaker library** — voices remembered across meetings
-- **Full history** — searchable, with audio playback
-- **Word-level timestamps** — precise scrubbing through long recordings
-- **Notarized + auto-updating** — built for Mac, distributed properly
-- **One-time purchase** — every feature and all future updates, no subscription
+- **Runs on-device** — audio and text never leave your Mac. No account, no cloud.
+- **Lives in the notch** — one tap to start, invisible the rest of the time.
+- **Speaker library** — voices remembered and matched across meetings.
+- **Searchable history** — every transcript, with audio playback.
+- **Word-level timestamps** — scrub a long recording to the exact word.
+- **MCP server** — query your transcripts from Claude and other MCP clients.
+- **Notarized and auto-updating** — signed with an Apple Developer ID, updates over Sparkle.
+- **One-time purchase** — every feature and all future updates, no subscription.
 
-## System requirements
+## Requirements
 
-- macOS 14 (Sonoma) or later
+- macOS 15 (Sequoia) or later
 - Apple Silicon (M1 or later)
 
-## Install
+## Download
 
-Download the latest `.dmg` from [chirpvoice.com](https://chirpvoice.com/#download) or [GitHub Releases](https://github.com/selcamx/chirp/releases).
+Get the latest `.dmg` from [chirpvoice.com](https://chirpvoice.com/#download) or [GitHub Releases](https://github.com/selcamx/chirp/releases). Free for 7 days, no card required.
 
 ## Pricing
 
-One-time license. Pay once, yours forever.
+One-time license. Pay once, use forever.
 
 | Plan | Price | Macs |
 |------|-------|------|
@@ -91,8 +94,15 @@ One-time license. Pay once, yours forever.
 | Double | $69 | 2 |
 | Triple | $99 | 3 |
 
-Try free for 7 days. No credit card required.
-
 ## License & support
 
-Commercial macOS app. For support, billing, or feedback: hello@chirpvoice.com
+Commercial macOS app. Questions, billing, or feedback: hello@chirpvoice.com
+
+<!-- STAR HISTORY — flip on once the repo has some star slope (it's a flat line on
+     a young repo). Then uncomment:
+## Star history
+
+<a href="https://star-history.com/#selcamx/chirp&Date">
+  <img src="https://api.star-history.com/svg?repos=selcamx/chirp&type=Date" width="600" alt="Star history" />
+</a>
+-->
