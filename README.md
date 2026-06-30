@@ -65,7 +65,7 @@ Chirp is a native macOS app for voice dictation and meeting transcription. It li
 Hold your hotkey, speak, release. Text appears at your cursor as you talk, in any Mac app, with no per-app setup. English, transcribed up to 120× faster than real-time.
 
 ### Meeting — transcription with speakers
-Records your microphone and the meeting's system audio together, then labels who said what. Chirp builds voice profiles that persist across meetings, so the same speaker is recognized next time. Export speaker-labeled transcripts to Markdown or SRT.
+Records your microphone and the meeting's system audio together, then labels who said what. Chirp builds voice profiles that persist across meetings, so the same speaker is recognized next time. Copy the whole transcript, speaker labels intact.
 
 ## What's included
 
@@ -74,6 +74,7 @@ Records your microphone and the meeting's system audio together, then labels who
 - **Speaker library** — voices remembered and matched across meetings.
 - **Searchable history** — every transcript, with audio playback.
 - **Word-level timestamps** — scrub a long recording to the exact word.
+- **Punctuation and formatting** — transcripts come out punctuated, capitalized, and broken into readable paragraphs, in both modes.
 - **MCP server** — query your transcripts from Claude and other MCP clients.
 - **Notarized and auto-updating** — signed with an Apple Developer ID, updates over Sparkle.
 - **One-time purchase** — every feature and all future updates, no subscription.
