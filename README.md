@@ -5,15 +5,13 @@
       <img src="https://raw.githubusercontent.com/selcamx/chirp/main/.github/wordmark-light.svg" width="200" alt="Chirp" />
     </picture>
   </a>
-</p>
-
-<p align="center">
+  <br/>
   On-device voice dictation and meeting transcription for macOS.
 </p>
 
 <p align="center">
   <a href="https://chirpvoice.com/#download">
-    <img src="https://img.shields.io/badge/Download_for_macOS-0B1F1D?style=for-the-badge&logo=apple&logoColor=white" alt="Download Chirp for macOS" height="34" />
+    <img src="https://img.shields.io/badge/Download%20for%20macOS-0B1F1D?style=flat&logo=apple&logoColor=white" alt="Download Chirp for macOS" height="30" />
   </a>
 </p>
 
@@ -44,7 +42,7 @@
 
 Chirp is a native macOS app for voice dictation and meeting transcription. It lives in your MacBook's notch and stays out of the way until you need it. Speech is transcribed on-device — your audio and text never leave your Mac — and it's a one-time purchase, with no subscription and no account.
 
-## A closer look
+## Inside the app
 
 <table>
   <tr>
